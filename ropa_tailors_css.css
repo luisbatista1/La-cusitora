@@ -5,6 +5,7 @@
 
 #header {
     height: 200px;
+    align-content: center;
     /*border: white solid 1px;*/
 }
 
@@ -15,8 +16,8 @@
     background-repeat: no-repeat;
     height: 200px;
     width: 200px;
-    position: fixed;
-    left: 45%;
+    /*position: fixed;
+    left: 45%;*/
     
     /*border: 1px solid black;*/
 }
