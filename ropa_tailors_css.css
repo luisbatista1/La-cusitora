@@ -7,3 +7,9 @@ body {
     height: 100px;
     border: white solid 1px;
 }
+
+#img_tailors {
+    background: url(tailors_logo.PNG);
+    
+    /*border: 1px solid black;*/
+}
