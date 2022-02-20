@@ -34,21 +34,25 @@
     margin-top: 1px;
 
 }
-
+div:hover{
+    opacity: 0.5;
+    border: 1px aqua;
+    }
 .uno {
     border: white 1px solid;
-    height: 300px;
+    padding:8em;
+    margin: 1em;
+    float:left;
     background:url(Captura1.PNG);
     background-repeat: no-repeat;
-    
-   
-  
 
 }
 
 .dos {
     border: white 1px solid;
-    height: 300px;
+    padding:8em;
+    margin: 1em;
+    float:left;
     background:url(Captura.PNG);
     background-repeat: no-repeat;
     
@@ -56,9 +60,10 @@
 
 .tres {
     border: white 1px solid;
-    height: 300px;
+    padding:8em;
+    margin: 1em;
+    float:left;
     background:url(Captura3.PNG);
-    background-repeat: no-repeat;
 
     
     
@@ -67,33 +72,76 @@
 }
 .cuatro { 
     border: white 1px solid;
-    height: 300px;
+    padding:8em;
+    margin: 1em;
+    float:left;
     background:url(Captura4.PNG);
-    background-repeat: no-repeat;
     
     
 }
-.cinco {  
-    border: white 1px solid;
-    height: 300px;
+.cinco {
+    border: white 1px solid;  
+    padding:8em;
+    margin: 1em;
+    float:left;
     background:url(Captura5.PNG);
-    background-repeat: no-repeat;
-    
     
 
 
 }
 
-.seis{    
-    border: white 1px solid;
-    height: 300px;
+.seis{   
+    border: white 1px solid; 
+    padding:8em;
+    margin: 1em;
+    float:left;
     background:url(Captura6.PNG);
-    background-repeat: no-repeat;
    
     
 }
 
-.h1{
-   margin-left: 2px;
+h3{
+margin-left:800px;
+border-color: white;
 }
+h1{
+
+border-color:white;
+}
+li{
+    border-color: white;
+   
+}
+.ultima1{
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(ultima.1.PNG);
+
+}
+.ultima2{
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(ultima2..PNG);
+
+}
+.ultima3{
+    padding:8em;
+    margin: 1em;
+    float:left;
+    background:url(ultima.3.PNG);
+
+}
+h1{
+    border-color: white;
+    
+}
+h1{
+    border-color: white;
+}
+
+
+
+
 
